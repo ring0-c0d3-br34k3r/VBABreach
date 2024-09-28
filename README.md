@@ -88,6 +88,9 @@ Implementing advanced security solutions that utilize behavioral analysis can he
 ## Conclusion
 VBABreach exemplifies the vulnerabilities present in widely used office applications and the ease with which they can be exploited. By understanding the mechanics of macro-based attacks, defenders can better prepare and protect against such threats. The sophistication of the script serves as a reminder of the continuous arms race between attackers and defenders in the realm of cybersecurity.
 
+
+(Create a valid digital certificate with SELFCERT.EXE)[https://www.gmayor.com/create_and_employ_a_digital_cert.htm]
+
 ```
 Feel free to customize any sections further or adjust formatting to suit your preferences!
 ```
